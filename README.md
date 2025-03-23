@@ -6,7 +6,6 @@
 </p>
 
 - 🔭 I’m currently working on **React & Backend Development**
-- 🌱 I’m currently learning **Docker & Containerization**
 - 👨‍💻 Check out my projects: [Portfolio](https://vkc453.netlify.app/)
 - 📧 Reach me at **chvamshikrishna453@gmail.com**
 - ⚡ Fun fact: **I debug more than I sleep 😆**
